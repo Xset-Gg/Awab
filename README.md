@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm abdul rehman</h1>
+<h1 align="center">Hi 👋, I'm awab abdul rehman</h1>
 <h3 align="center">Python Developer & Data Visualization Enthusiast</h3>
 
 - 🔭 I’m currently working on **CHATME ASTRA**
